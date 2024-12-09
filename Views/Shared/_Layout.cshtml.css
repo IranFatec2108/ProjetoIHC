@@ -1,0 +1,121 @@
+﻿/* Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
+for details on configuring this project to bundle and minify static web assets. */
+
+html, body {
+    height: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+body {
+    font-size: 14px;
+    background-color: #f4f8fc;
+    flex: 1;
+}
+
+@media (min-width: 768px) {
+    body {
+        font-size: 16px;
+    }
+}
+
+a.navbar-brand {
+    white-space: normal;
+    text-align: center;
+    word-break: break-all;
+}
+
+a {
+    color: #0077cc;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+    .btn-primary:hover {
+        background-color: #1861ac;
+        border-color: #1b6ec2;
+    }
+
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    color: #fff;
+    background-color: #1b6ec2;
+    border-color: #1861ac;
+}
+
+.border-top {
+    border-top: 1px solid #e5e5e5;
+}
+
+.border-bottom {
+    border-bottom: 1px solid #e5e5e5;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+button.accept-policy {
+    font-size: 1rem;
+    line-height: inherit;
+}
+
+.footer {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 1rem;
+    border-top: 1px solid #e1e1e1;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    flex-shrink: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+    .footer a {
+        color: #007bff;
+        text-decoration: none;
+    }
+
+        .footer a:hover {
+            color: #0056b3;
+            text-decoration: underline;
+        }
+
+.container {
+    margin-top: 30px;
+}
+
+.main {
+    padding: 20px;
+    background-color: var(--white);
+    border-radius: 8px;
+}
+
+.text-muted {
+    color: var(--gray-dark);
+}
+
+.text-dark {
+    color: var(--gray-dark);
+}
+
+.text-danger {
+    color: red;
+}
+
+@media (max-width: 768px) {
+    .navbar-collapse {
+        text-align: center;
+    }
+
+    .container {
+        padding: 10px;
+    }
+}

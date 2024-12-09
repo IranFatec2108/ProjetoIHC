@@ -1,0 +1,397 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\data\\projetoihccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:data\\projetoihccontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\clientes\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\clientes\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\clientes\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:views\\clientes\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:models\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:properties\\servicedependencies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\migrations\\20241209022909_migrationteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:migrations\\20241209022909_migrationteste.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:controllers\\clientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|c:\\users\\junior\\desktop\\downloads\\projetoihc\\projetoihc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{33E9AE8E-8354-4FE9-90D2-EE455686F5CB}|ProjetoIHC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:416446844:0:{83107a3e-496a-485e-b455-16ddb978e55e}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:22:06.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:29:33.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjetoIHCContext.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Data\\ProjetoIHCContext.cs",
+              "RelativeDocumentMoniker": "Data\\ProjetoIHCContext.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Data\\ProjetoIHCContext.cs",
+              "RelativeToolTip": "Data\\ProjetoIHCContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T04:36:20.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:32:04.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T03:06:25.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAmwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T05:28:05.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T03:06:21.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAmwH0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-12-09T04:30:44.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T05:29:40.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:21:57.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T01:57:05.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:21:47.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Index.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:21:19.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:23:21.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Details.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Details.cshtml",
+              "ViewState": "AgIAAFEAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T04:36:07.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T05:27:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-12-09T03:04:45.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Clientes\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Views\\Clientes\\Create.cshtml",
+              "RelativeToolTip": "Views\\Clientes\\Create.cshtml",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-09T02:33:12.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Models\\Cliente.cs",
+              "RelativeDocumentMoniker": "Models\\Cliente.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Models\\Cliente.cs",
+              "RelativeToolTip": "Models\\Cliente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:19:38.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "serviceDependencies.json",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Properties\\serviceDependencies.json",
+              "RelativeDocumentMoniker": "Properties\\serviceDependencies.json",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Properties\\serviceDependencies.json",
+              "RelativeToolTip": "Properties\\serviceDependencies.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-09T03:02:34.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20241209022909_MigrationTeste.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Migrations\\20241209022909_MigrationTeste.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241209022909_MigrationTeste.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Migrations\\20241209022909_MigrationTeste.cs",
+              "RelativeToolTip": "Migrations\\20241209022909_MigrationTeste.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:29:10.719Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ClientesController.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Controllers\\ClientesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClientesController.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Controllers\\ClientesController.cs",
+              "RelativeToolTip": "Controllers\\ClientesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T02:24:05.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Junior\\Desktop\\Downloads\\ProjetoIHC\\ProjetoIHC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-09T01:43:25.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
